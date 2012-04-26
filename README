@@ -1,0 +1,10 @@
+Simple (glorified) Web Server for my Mac
+This is a  Railo/Tomcat (Railo Hachiko, 3.3.1.000 final/Apache Tomcat/6.0.35) Java Run Time configured for the Cloudbees SDK. Web root is in the webapp folder. 
+
+I found it very easy to use it as a dead simple but glorified web server for my HTML5 development and tinkering. I already use Cloudbees so I don't have to install any new app just start the server!
+
+If you need to login to admin you find it at http://localhost:8080/railo-context/admin/server.cfm. Password is password. All settings have been cleared and optimized for HTML.
+
+Star the Railo app from terminal: bees run. Stop it with ctrl-c.
+
+
